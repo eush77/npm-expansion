@@ -4,6 +4,9 @@
   "description": "Chooses random expansion from npm/npm-expansions",
   "author": "Eugene Sharygin <eush77@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
   "files": [
     "index.js"
   ],
@@ -27,5 +30,7 @@
   "dependencies": {
     "npm-expansions": "^2.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
 }

@@ -2,6 +2,7 @@
 
 # npm-expansion
 
+[![Build Status](https://travis-ci.org/eush77/npm-expansion.svg)](https://travis-ci.org/eush77/npm-expansion)
 [![Dependency Status][david-badge]][david]
 
 Chooses random expansion from [npm/npm-expansions].
