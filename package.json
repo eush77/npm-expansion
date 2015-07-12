@@ -1,6 +1,6 @@
 {
   "name": "npm-expansion",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Chooses random expansion from npm/npm-expansions",
   "author": "Eugene Sharygin <eush77@gmail.com>",
   "license": "MIT",
