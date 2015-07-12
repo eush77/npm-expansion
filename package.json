@@ -1,0 +1,31 @@
+{
+  "name": "npm-expansion",
+  "version": "0.0.0",
+  "description": "Chooses random expansion from npm/npm-expansions",
+  "author": "Eugene Sharygin <eush77@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/eush77/npm-expansion",
+  "repository": "eush77/npm-expansion",
+  "bugs": {
+    "url": "https://github.com/eush77/npm-expansion/issues"
+  },
+  "keywords": [
+    "npm",
+    "n-p-m",
+    "naming-is-hard",
+    "acronym",
+    "abbreviations",
+    "choose",
+    "random",
+    "expansions",
+    "get",
+    "expansion"
+  ],
+  "dependencies": {
+    "npm-expansions": "^2.1.0"
+  },
+  "devDependencies": {}
+}
