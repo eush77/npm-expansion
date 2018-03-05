@@ -1,8 +1,5 @@
 'use strict';
 
-var expansions = require('npm-expansions');
+const expansions = require('npm-expansions');
 
-
-module.exports = function () {
-  return expansions[Math.floor(Math.random() * expansions.length)];
-};
+module.exports = () => expansions[Math.floor(Math.random() * expansions.length)];
